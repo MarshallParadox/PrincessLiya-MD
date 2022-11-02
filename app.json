@@ -1,0 +1,24 @@
+{
+  "name": "Princess Liya",
+  "description": "Princess Liya is a user bot for WhatsApp to make your tasks easier 💃🏻❤️.",
+  "repository": "https://github.com/ArthurJRebus/PrincessLiya-MD",
+  "logo": "https://i.ibb.co/2n0WP2H/anime-anime-girls-overwatch-d-va-overwatch-wallpaper-preview.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
