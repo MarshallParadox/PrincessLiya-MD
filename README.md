@@ -4,7 +4,7 @@
 [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/MarshallParadox/QueenAva-MD/blob/launch/README-SI.md)
 
 <div align="center">
-  <img src="https://i.ibb.co/2n0WP2H/anime-anime-girls-overwatch-d-va-overwatch-wallpaper-preview.jpg" alt="QueenAva Bot" width="500" height="300">
+  <img src="https://i.ibb.co/2n0WP2H/anime-anime-girls-overwatch-d-va-overwatch-wallpaper-preview.jpg" alt="QueenAva Bot" width="400" height="300">
   <h1>❤ QUEEN AVA ❤</h1>
 </div>
 <p align="center">
